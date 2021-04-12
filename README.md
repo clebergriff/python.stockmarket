@@ -1,1 +1,1 @@
-# python.stockmarket
+This script can monitor the price of BOVESPA stocks, getting periodic data from Google website and saving them to a database
